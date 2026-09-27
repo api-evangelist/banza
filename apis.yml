@@ -19,5 +19,9 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: VulnerabilityDisclosure
+  url: security/banza-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/banza-domain-security.yml
 - type: Website
   url: https://www.hiive.com/securities/banza-stock
